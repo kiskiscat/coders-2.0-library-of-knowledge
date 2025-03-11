@@ -1,0 +1,10 @@
+{
+  "name": "coders-2.0-library-of-knowledge",
+  "private": true,
+  "scripts": {
+    "format": "prettier --write \"**/*.+(md)\""
+  },
+  "devDependencies": {
+    "prettier": "~2.7.1"
+  }
+}
