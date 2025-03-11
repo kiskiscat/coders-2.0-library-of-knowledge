@@ -1,3 +1,0 @@
-- [Head](Head.md)
-- [Body](Body.md)
-- [Общее](Общее.md)
