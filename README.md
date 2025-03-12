@@ -6,12 +6,12 @@
 
 ## Оглавление
 
-- [На почитать](./to-read/to-read.md)
-- [Обучение](./education/education.md)
-- [Решения на каждый день](./solutions-for-every-day/solutions-for-every-day.md)
-- [Словарь](./dictionary/dictionary.md)
-- [Стандарты](./standards/standards.md)
-- [На посмотреть](./to-see.md)
+- [На почитать](./src/to-read/to-read.md)
+- [Обучение](./src/education/education.md)
+- [Решения на каждый день](./src/solutions-for-every-day/solutions-for-every-day.md)
+- [Словарь](./src/dictionary/dictionary.md)
+- [Стандарты](./src/standards/standards.md)
+- [На посмотреть](./src/to-see.md)
 
 ## Внесение изменений
 

@@ -1,0 +1,3 @@
+# CS
+
+- [Архитектура](./architecture.md)
