@@ -1,3 +1,3 @@
 # Практика
 
-- [Контрольный список](./checklist/checklist.md)
+- [Контрольный список](./checklist/index.md)

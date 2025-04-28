@@ -1,5 +1,5 @@
 # Фронтенд
 
 - [Сервисы](./services.md)
-- [Практика](./practice/practice.md)
-- [Технологии](./technologies/technologies.md)
+- [Практика](./practice/index.md)
+- [Технологии](./technologies/index.md)

@@ -2,13 +2,13 @@
 
 ## Техническое
 
-- [ОС](./os/os.md)
-- [Фронтенд](./frontend/frontend.md)
-- [Языки программирования](./language-of-programs/language-of-programs.md)
-- [CS](./cs/cs.md)
+- [ОС](./os/index.md)
+- [Фронтенд](./frontend/index.md)
+- [Языки программирования](./language-of-programs/index.md)
+- [CS](./cs/index.md)
 - [ИБ](./information-security.md)
 
-## Остальное
+## НЕ Техническое
 
 - [Найм](./hiring.md)
 - [Развитие умственной деятельности](./development-of-mental-activity.md)

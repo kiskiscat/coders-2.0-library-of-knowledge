@@ -22,6 +22,7 @@
 ## Сеть
 
 - [ky](https://www.npmjs.com/package/ky) - это миниатюрный и элегантный HTTP-клиент, основанный на браузерном Fetch API.
+- [up-fetch](https://github.com/L-Blondy/up-fetch)
 
 ## Профилирование
 
