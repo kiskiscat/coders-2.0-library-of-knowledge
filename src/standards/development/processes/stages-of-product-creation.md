@@ -261,9 +261,7 @@ _До релиза Vitest 2, я использовал Jest для юнит-те
 
 Следуя предложенной структуре и подходам, команды продукта могут значительно повысить шансы на успешную реализацию проектов в срок. Важно помнить, что каждый проект уникален, и подходы должны адаптироваться в зависимости от конкретных условий и требований.
 
-## Полезные материалы по теме
-
-### Ссылки и статьи
+## Ссылки и статьи
 
 - [Linear Method - Practices for Building](https://linear.app/method)
 - [Diving into Types of Product Development Process](https://medium.com/design-bootcamp/diving-into-types-of-product-development-process-998cf993cab1)

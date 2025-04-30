@@ -5,5 +5,6 @@
 3. [Ключевая функциональность](./key-functionality/index.md)
 4. [Реактивность](./reactivity/index.md)
 5. [Архитектура FSD](./fsd-architecture/index.md)
-6. [Тестирование](./testing/index.md)
-7. [Код](./code/index.md)
+6. [Планирование](./planning/index.md)
+7. [Тестирование](./testing/index.md)
+8. [Код](./code/index.md)
