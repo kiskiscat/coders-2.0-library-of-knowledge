@@ -1,7 +1,5 @@
 # Словарь
 
-- [Направления](./directions/directions.md)
-- [Основы](./basics/basics.md)
-- [Процессы](./process/process.md)
-- [Компьютер](./computer.md)
-- [Сеть](./network.md)
+- [Направления](./directions/index.md)
+- [Основы](./basics/index.md)
+- [Процессы](./process/index.md)

@@ -10,3 +10,8 @@
 
 - [Дока](https://doka.guide/)
 - [WebDev](https://web.dev/learn/)
+
+## Игры
+
+- https://javascriptgametutorials.com/
+- https://www.codedex.io/courses

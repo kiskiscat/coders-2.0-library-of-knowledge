@@ -11,12 +11,8 @@
 ## Профилирование
 
 1. [DepCheck](https://www.npmjs.com/package/depcheck) - это инструмент для анализа зависимостей в проекте.
-
-## Полезные утилиты
-
-1. [Bcrypt](https://www.npmjs.com/package/bcrypt) - библиотека, которая поможет вам шифровать пароли, в соответствии с определёнными стандартами.
-2. [Uuid](https://www.npmjs.com/package/uuid) - библиотека для создания уникального id.
-3. [Minimist](https://www.npmjs.com/package/minimist) - инструмент для парсинга аргументов командной строки без всяких причудливых украшений.
+2. [Node Modules Inspector](https://node-modules.dev/) - инструмент, позволяющий провести анализ пакета - от чего зависит, какие уязвимости, сколько весит и все такое.
+3. [reproduce](https://blog.vlt.sh/blog/reproducibility) - инструмент, который проверяет, что пакет, скачиваемый из npm, действительно собран из исходников на github. Т.е. инструмент проверяет пакеты на reproducibility.
 
 ## Локальный сервер
 
@@ -31,3 +27,9 @@
 ## Работа с токенами
 
 - [Jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken) - реализация веб-токенов JSON.
+
+## Прочее
+
+1. [Bcrypt](https://www.npmjs.com/package/bcrypt) - библиотека, которая поможет вам шифровать пароли, в соответствии с определёнными стандартами.
+2. [Uuid](https://www.npmjs.com/package/uuid) - библиотека для создания уникального id.
+3. [Minimist](https://www.npmjs.com/package/minimist) - инструмент для парсинга аргументов командной строки без всяких причудливых украшений.

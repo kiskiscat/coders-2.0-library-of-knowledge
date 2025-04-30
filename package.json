@@ -2,9 +2,9 @@
   "name": "coders-2.0-library-of-knowledge",
   "private": true,
   "scripts": {
-    "format": "prettier --write \"**/*.+(md)\""
+    "format": "prettier --write \"**/*.+(md|json)\""
   },
-  "devDependencies": {
-    "prettier": "~2.7.1"
+  "dependencies": {
+    "prettier": "^3.5.3"
   }
 }
