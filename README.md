@@ -11,7 +11,7 @@
 - [Решения на каждый день](./src/solutions-for-every-day/index.md)
 - [Словарь](./src/dictionary/index.md)
 - [Стандарты](./src/standards/index.md)
-- [На посмотреть](./src/to-see.md)
+- [На посмотреть](./src/to-see/index.md)
 
 ## Внесение изменений
 
