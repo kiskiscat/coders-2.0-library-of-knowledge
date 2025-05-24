@@ -1,5 +1,5 @@
 # Направления
 
-- [Бекенд](./backend/backend.md)
-- [Фронтенд](./frontend/frontend.md)
+- [Бекенд](./backend/index.md)
+- [Фронтенд](./frontend/index.md)
 - [Тестирование](./testing.md)
