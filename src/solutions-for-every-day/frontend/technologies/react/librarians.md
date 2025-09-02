@@ -8,3 +8,7 @@
 ## Презентации
 
 - [Spectacle](https://nearform.com/open-source/spectacle/)- библиотека для создания презентаций на React
+
+## Компоненты
+
+- [Themedevhub](https://www.themedevhub.com/)

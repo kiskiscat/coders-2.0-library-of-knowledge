@@ -1,3 +1,4 @@
 # Обучение
 
-- [Фронтенд](./frontend.md)
+- [Фронтенд](./frontend/index.md)
+- [ИБ](./information-security/index.md)

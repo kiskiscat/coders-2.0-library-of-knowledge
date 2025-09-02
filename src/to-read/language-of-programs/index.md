@@ -1,4 +1,4 @@
 # Языки программирования
 
-- [TypeScript](./type-script.md)
-- [JavaScript](./java-script.md)
+- [TypeScript](./type-script/index.md)
+- [JavaScript](./java-script/index.md)

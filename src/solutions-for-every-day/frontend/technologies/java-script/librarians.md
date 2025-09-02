@@ -14,16 +14,12 @@
 
 - [Query-string](https://www.npmjs.com/package/query-string)
 
-## Регрессионное тестирование
-
-- Loki JS
-
-## Сеть
-
-- [ky](https://www.npmjs.com/package/ky) - это миниатюрный и элегантный HTTP-клиент, основанный на браузерном Fetch API.
-- [up-fetch](https://github.com/L-Blondy/up-fetch)
-
 ## Профилирование
 
 - [jscpd](https://www.npmjs.com/package/jscpd) - детектор копирования/вставки для программирования исходного кода, поддерживает более 150 форматов.
 - [jsv9000](https://www.jsv9000.app/) - инструмент, позволяющий наглядно видеть порядок выполнения JS кода
+
+## Компоненты
+
+- [Gridstack](https://gridstackjs.com/) - библиотека для создания дашбордов
+- [Atropos](https://atroposjs.com/) - создание красивых паралакс-эффектов

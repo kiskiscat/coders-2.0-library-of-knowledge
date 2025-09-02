@@ -1,4 +1,4 @@
 # Фронтенд
 
-- [Доступность](./accessibility.md)
-- [Обучение](./education.md)
+- [Доступность](./accessibility/index.md)
+- [Обучение](./education/index.md)

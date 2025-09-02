@@ -12,3 +12,4 @@
 - [Проверочные стили](./checking-styles.md)
 - [Разделители для хлебных крошек](./breadcrumb-separators.md)
 - [Правильный фокус интерактивного элемента](./correct-focus-of-an-interactive-element.md)
+- [Фильтр светлой/тёмной темы](./light-and-dark-theme-filter.md)

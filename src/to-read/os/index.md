@@ -1,3 +1,3 @@
 # ОС
 
-- [Linux](./linux.md)
+- [Linux](./linux/index.md)
