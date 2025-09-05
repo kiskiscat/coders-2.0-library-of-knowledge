@@ -1,3 +1,3 @@
 # React
 
-- [Библиотеки](./librarians.md)
+- [Библиотеки](./librarians/index.md)

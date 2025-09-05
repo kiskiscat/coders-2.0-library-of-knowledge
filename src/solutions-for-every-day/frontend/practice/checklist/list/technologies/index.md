@@ -1,5 +1,5 @@
 # Технологии
 
 - [HTML](./html/index.md)
-- [CSS](./css.md)
-- [JavaScript](./java-script.md)
+- [CSS](./css/index.md)
+- [JavaScript](./java-script/index.md)

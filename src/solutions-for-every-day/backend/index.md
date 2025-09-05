@@ -1,4 +1,4 @@
 # Бекенд
 
-- [Node JS](./node-js.md)
-- [Прочее](./rest.md)
+- [Node JS](./node-js/index.md)
+- [Прочее](./rest/index.md)

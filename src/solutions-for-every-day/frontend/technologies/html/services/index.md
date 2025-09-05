@@ -13,3 +13,7 @@
 ## Изображения
 
 - [Placeholder](https://placeholder.com/) - заглушка для картинок
+
+## Код
+
+- [Mingcute](https://www.mingcute.com/) - библиотека с более чем 3000 иконок

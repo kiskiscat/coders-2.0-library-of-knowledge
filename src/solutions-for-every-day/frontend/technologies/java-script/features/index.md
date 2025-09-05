@@ -1,4 +1,4 @@
 # Особенности работы
 
-- [Регулярные выражения](./Регулярные%20выражения.md)
-- [Объект Headers](./headers-object.md)
+- [Регулярные выражения](./regular-expressions/index.md)
+- [Объект Headers](./headers-object/index.md)

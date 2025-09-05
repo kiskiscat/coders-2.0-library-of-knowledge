@@ -1,6 +1,6 @@
 # Готовые решения
 
-- [Обработка исключений](./Обработка%20исключений.md)
-- [Декораторы](./Декораторы.md)
-- [Фишки](./Фишки.md)
-- [Использование encodeURIComponent и encodeURI](./Использование%20encodeURIComponent%20и%20encodeURI.md)
+- [Обработка исключений](./exception-handling/index.md)
+- [Декораторы](./decorators/index.md)
+- [Фишки](./chips/index.md)
+- [Использование encodeURIComponent и encodeURI](./using-encode-uri-component-and-encode-uri/index.md)

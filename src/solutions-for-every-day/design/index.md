@@ -7,3 +7,4 @@
 ## Код
 
 - https://carbon.now.sh/
+- https://readme.so/es/editor
