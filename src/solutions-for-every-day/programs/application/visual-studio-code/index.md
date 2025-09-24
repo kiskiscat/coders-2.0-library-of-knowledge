@@ -1,4 +1,4 @@
 # Visual Studio Code
 
-- [Расширения](./extensions.md)
-- [Советы](./tips.md)
+- [Расширения](./extensions/index.md)
+- [Советы](./tips/index.md)

@@ -1,3 +1,3 @@
 # GIT
 
-- [Источники](./sources.md)
+- [Источники](./sources/index.md)
