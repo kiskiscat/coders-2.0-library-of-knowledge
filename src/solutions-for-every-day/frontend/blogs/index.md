@@ -1,3 +1,0 @@
-# Блоги
-
-- https://bespoyasov.ru/

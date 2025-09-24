@@ -1,3 +1,3 @@
 # Linux
 
-- [Linux Mint](./linux-mint.md)
+- [Linux Mint](./linux-mint/index.md)

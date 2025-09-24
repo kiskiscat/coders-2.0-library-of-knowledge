@@ -2,58 +2,37 @@
 
 ## Профилирование
 
-- [Autoprefixer CSS online](https://autoprefixer.github.io/)
-- [CSS Validator](https://jigsaw.w3.org/css-validator/)
+- [autoprefixer](https://autoprefixer.github.io/)
+- [CSS validator by W3C](https://jigsaw.w3.org/css-validator/)
 
-## Оптимизация
+## Контроль качества
 
-- [UnCSS Online](https://uncss-online.com/)
+- [responsivedesign](http://ami.responsivedesign.is/)
+- [responsinator](https://www.responsinator.com/)
 
-## Адаптивность
-
-- [Am I Responsive?](http://ami.responsivedesign.is/)
-- [Responsinator](https://www.responsinator.com/)
-
-## Цвета
-
-- [WebGradients](https://webgradients.com/) - бесплатная коллекция из 180 линейных градиентов.
-- [Color Name](https://colornamer.robertcooper.me/) - позволяет узнать название HEX, RGB цветов.
-- [RGBA to HEX](https://rgbacolorpicker.com/rgba-to-hex)
-
-Лучше всегда доверять выбор цвета профессионалам, но иногда мы делаем проект для себя и нам нужно сделать хорошую подборку цветов для проекта. В этом случае лучше всего не изобретать велосипед, а воспользоваться уже подходящими опенсорсными подборками:
-
-- [Material Design Color System](https://material.io/design/color/the-color-system.html#color-theme-creation)
-- [Ubuntu Color System](https://design.ubuntu.com/brand/colour-palette/)
-- [Color Hex Color Codes](https://www.color-hex.com/)
-- [RGBto](https://rgb.to/)
-- [Colormind](http://colormind.io/)
-
-И отдельно присмотритесь к сервисам, которые умеют подбирать безопасные цвета для людей с особенностями их восприятия:
+## Доступность
 
 - [Colorsafe](http://colorsafe.co/)
-- [Цветовое колесо от Adobe](https://color.adobe.com/ru/create/color-wheel)
 - [Color Scheme](https://colorscheme.ru/)
 
 Ничего лучше чёрного текста на белом фоне пока не придумали. Или белого на чёрном, если читаешь ночью. Убедись, что цвет текста выглядит контрастно на заданном фоне, лучше даже проверить:
 
 - [Siegemedia](https://www.siegemedia.com/contrast-ratio)
 
-## Тени
+## Работа с тенями
 
-- [BoxShadow](https://html-css-js.com/css/generator/box-shadow/) - сервис для создания теней.
+- [box-shadow](https://html-css-js.com/css/generator/box-shadow/)
 
-## Фигуры
+## Работа с цветом
 
-- [Clippy](https://bennettfeely.com/clippy/) - расчёт свойства clip-path, для создания фигур разной формы.
+- [webgradients](https://webgradients.com/) - бесплатная коллекция из 180 линейных градиентов.
+- [colornamer](https://colornamer.robertcooper.me/) - позволяет узнать название HEX, RGB цветов.
+- [patterncraft](https://patterncraft.fun/) - профессиональные фоновые паттерны и градиенты в один клик.
 
-## Анимации
+## Работа с фигурами
 
-- [Animista](https://animista.net/) - библиотека готовых css анимаций.
+- [clippy](https://bennettfeely.com/clippy/) - расчёт свойства clip-path, для создания фигур разной формы.
 
-## Изображения
+## Работа с анимациями
 
-- [URL декодер для SVG](https://yoksel.github.io/url-encoder/) - для вставки закодированного изображения в CSS.
-
-## Градиенты
-
-- [Patterncraft](https://patterncraft.fun/) - профессиональные фоновые паттерны и градиенты в один клик.
+- [animista](https://animista.net/) - библиотека готовых css анимаций.

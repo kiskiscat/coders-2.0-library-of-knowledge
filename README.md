@@ -6,11 +6,11 @@
 
 ## Оглавление
 
-- [На почитать](./src/to-read/index.md)
+- [Словарь](./src/dictionary/index.md)
 - [Обучение](./src/education/index.md)
 - [Решения на каждый день](./src/solutions-for-every-day/index.md)
-- [Словарь](./src/dictionary/index.md)
 - [Стандарты](./src/standards/index.md)
+- [На почитать](./src/to-read/index.md)
 - [На посмотреть](./src/to-see/index.md)
 
 ## Внесение изменений

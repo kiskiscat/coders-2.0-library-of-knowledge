@@ -2,13 +2,13 @@
 
 ## Профилирование
 
-- [React Scan](https://github.com/aidenybai/react-scan) - инструмент, который находит проблемы в производительности React-приложений.
-- [Omlet](https://omlet.dev/) - инструмент, который собирает аналитику по использованию компонентов в коде.
+- [react-scan](https://github.com/aidenybai/react-scan) - инструмент, который находит проблемы в производительности React-приложений.
+- [omlet](https://omlet.dev/) - инструмент, который собирает аналитику по использованию компонентов в коде.
 
 ## Презентации
 
-- [Spectacle](https://nearform.com/open-source/spectacle/)- библиотека для создания презентаций на React
+- [spectacle](https://nearform.com/open-source/spectacle/)- библиотека для создания презентаций на React
 
 ## Компоненты
 
-- [Themedevhub](https://www.themedevhub.com/)
+- [themedevhub](https://www.themedevhub.com/)

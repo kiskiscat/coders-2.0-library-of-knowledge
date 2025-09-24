@@ -4,14 +4,13 @@
 
 - https://github.com/vasanthk/how-web-works
 - https://github.com/microsoft/Web-Dev-For-Beginners
-- https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer
+- https://github.com/ryanmcdermott/clean-code-javascript
 
 ### Руводства
 
 - [Дока](https://doka.guide/)
 - [WebDev](https://web.dev/learn/)
 
-## Игры
+# Блоги
 
-- https://javascriptgametutorials.com/
-- https://www.codedex.io/courses
+- https://bespoyasov.ru/
