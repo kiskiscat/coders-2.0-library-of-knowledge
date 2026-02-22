@@ -8,7 +8,7 @@
 - [Сокрытие дефолтного чекбокса](./hiding-the-default-checkbox/index.md)
 - [Текст с троеточием](./text-with-ellipsis/index.md)
 - [Фоновое видео](./background-video/index.md)
-- [Hover эффект](./hover-effect/index.md)
+- [Hover-эффект](./hover-effect/index.md)
 - [Проверочные стили](./checking-styles/index.md)
 - [Разделители для хлебных крошек](./breadcrumb-separators/index.md)
 - [Правильный фокус интерактивного элемента](./correct-focus-of-an-interactive-element/index.md)
